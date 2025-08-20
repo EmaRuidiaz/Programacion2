@@ -1,4 +1,4 @@
-package programacion2.TP1;
+package programacion2;
 
 import java.util.Scanner;
 
